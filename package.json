@@ -1,0 +1,17 @@
+{
+  "name": "examen_training_league",
+  "version": "1.0.0",
+  "description": "Juego de carros por consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braean Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "excel4node": "^1.7.2",
+    "file-saver": "^2.0.5",
+    "xlsx": "^0.17.0"
+  }
+}
